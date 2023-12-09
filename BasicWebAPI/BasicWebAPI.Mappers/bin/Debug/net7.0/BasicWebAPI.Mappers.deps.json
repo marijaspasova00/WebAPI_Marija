@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BasicWebAPI.Mappers/1.0.0": {
+        "dependencies": {
+          "BasicWebAPI.DTOs": "1.0.0",
+          "BasicWebAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BasicWebAPI.Mappers.dll": {}
+        }
+      },
+      "BasicWebAPI.Domain/1.0.0": {
+        "runtime": {
+          "BasicWebAPI.Domain.dll": {}
+        }
+      },
+      "BasicWebAPI.DTOs/1.0.0": {
+        "runtime": {
+          "BasicWebAPI.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicWebAPI.Mappers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BasicWebAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BasicWebAPI.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

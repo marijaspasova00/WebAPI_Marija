@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DataAccess\bin\Debug\net7.0\BasicWebAPI.DataAccess.deps.json
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DataAccess\bin\Debug\net7.0\BasicWebAPI.DataAccess.runtimeconfig.json
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DataAccess\bin\Debug\net7.0\BasicWebAPI.DataAccess.dll
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DataAccess\bin\Debug\net7.0\BasicWebAPI.DataAccess.pdb
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DataAccess\bin\Debug\net7.0\BasicWebAPI.Domain.dll
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DataAccess\bin\Debug\net7.0\BasicWebAPI.Domain.pdb
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DataAccess\obj\Debug\net7.0\BasicWebAPI.DataAccess.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DataAccess\obj\Debug\net7.0\BasicWebAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DataAccess\obj\Debug\net7.0\BasicWebAPI.DataAccess.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DataAccess\obj\Debug\net7.0\BasicWebAPI.DataAccess.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DataAccess\obj\Debug\net7.0\BasicWebAPI.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DataAccess\obj\Debug\net7.0\BasicWebAPI.DataAccess.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DataAccess\obj\Debug\net7.0\BasicWebAPI.DataAccess.dll
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DataAccess\obj\Debug\net7.0\refint\BasicWebAPI.DataAccess.dll
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DataAccess\obj\Debug\net7.0\BasicWebAPI.DataAccess.pdb
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DataAccess\obj\Debug\net7.0\BasicWebAPI.DataAccess.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DataAccess\obj\Debug\net7.0\ref\BasicWebAPI.DataAccess.dll

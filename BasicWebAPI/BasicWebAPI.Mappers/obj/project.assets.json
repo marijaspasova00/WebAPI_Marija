@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "BasicWebAPI.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BasicWebAPI.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BasicWebAPI.Domain.dll": {}
+        }
+      },
+      "BasicWebAPI.DTOs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BasicWebAPI.DTOs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BasicWebAPI.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicWebAPI.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BasicWebAPI.Domain/BasicWebAPI.Domain.csproj",
+      "msbuildProject": "../BasicWebAPI.Domain/BasicWebAPI.Domain.csproj"
+    },
+    "BasicWebAPI.DTOs/1.0.0": {
+      "type": "project",
+      "path": "../BasicWebAPI.DTOs/BasicWebAPI.DTOs.csproj",
+      "msbuildProject": "../BasicWebAPI.DTOs/BasicWebAPI.DTOs.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "BasicWebAPI.DTOs >= 1.0.0",
+      "BasicWebAPI.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\BasicWebAPI\\BasicWebAPI.Mappers\\BasicWebAPI.Mappers.csproj",
+      "projectName": "BasicWebAPI.Mappers",
+      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\BasicWebAPI\\BasicWebAPI.Mappers\\BasicWebAPI.Mappers.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\BasicWebAPI\\BasicWebAPI.Mappers\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\LENOVO\\source\\repos\\BasicWebAPI\\BasicWebAPI.Domain\\BasicWebAPI.Domain.csproj": {
+              "projectPath": "C:\\Users\\LENOVO\\source\\repos\\BasicWebAPI\\BasicWebAPI.Domain\\BasicWebAPI.Domain.csproj"
+            },
+            "C:\\Users\\LENOVO\\source\\repos\\BasicWebAPI\\BasicWebAPI.DTOs\\BasicWebAPI.DTOs.csproj": {
+              "projectPath": "C:\\Users\\LENOVO\\source\\repos\\BasicWebAPI\\BasicWebAPI.DTOs\\BasicWebAPI.DTOs.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

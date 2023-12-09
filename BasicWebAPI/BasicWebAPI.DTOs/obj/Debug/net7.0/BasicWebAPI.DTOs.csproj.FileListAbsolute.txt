@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DTOs\bin\Debug\net7.0\BasicWebAPI.DTOs.deps.json
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DTOs\bin\Debug\net7.0\BasicWebAPI.DTOs.dll
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DTOs\bin\Debug\net7.0\BasicWebAPI.DTOs.pdb
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net7.0\BasicWebAPI.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net7.0\BasicWebAPI.DTOs.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net7.0\BasicWebAPI.DTOs.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net7.0\BasicWebAPI.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net7.0\BasicWebAPI.DTOs.dll
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net7.0\refint\BasicWebAPI.DTOs.dll
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net7.0\BasicWebAPI.DTOs.pdb
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.DTOs\obj\Debug\net7.0\ref\BasicWebAPI.DTOs.dll

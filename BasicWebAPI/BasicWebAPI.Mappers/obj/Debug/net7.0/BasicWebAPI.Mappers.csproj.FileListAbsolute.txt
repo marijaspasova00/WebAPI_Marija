@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.Mappers\bin\Debug\net7.0\BasicWebAPI.Mappers.deps.json
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.Mappers\bin\Debug\net7.0\BasicWebAPI.Mappers.dll
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.Mappers\bin\Debug\net7.0\BasicWebAPI.Mappers.pdb
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.Mappers\bin\Debug\net7.0\BasicWebAPI.Domain.dll
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.Mappers\bin\Debug\net7.0\BasicWebAPI.DTOs.dll
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.Mappers\bin\Debug\net7.0\BasicWebAPI.Domain.pdb
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.Mappers\bin\Debug\net7.0\BasicWebAPI.DTOs.pdb
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.Mappers\obj\Debug\net7.0\BasicWebAPI.Mappers.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.Mappers\obj\Debug\net7.0\BasicWebAPI.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.Mappers\obj\Debug\net7.0\BasicWebAPI.Mappers.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.Mappers\obj\Debug\net7.0\BasicWebAPI.Mappers.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.Mappers\obj\Debug\net7.0\BasicWebAPI.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.Mappers\obj\Debug\net7.0\BasicWebAPI.Mappers.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.Mappers\obj\Debug\net7.0\BasicWebAPI.Mappers.dll
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.Mappers\obj\Debug\net7.0\refint\BasicWebAPI.Mappers.dll
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.Mappers\obj\Debug\net7.0\BasicWebAPI.Mappers.pdb
+C:\Users\LENOVO\source\repos\BasicWebAPI\BasicWebAPI.Mappers\obj\Debug\net7.0\ref\BasicWebAPI.Mappers.dll
